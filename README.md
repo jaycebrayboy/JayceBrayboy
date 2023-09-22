@@ -12,3 +12,4 @@ Some facts about me:
 - 🎯 My goal for 2023: landing a new job in tech!
 
 Feel free to contact me on GitHub or LinkedIn!
+Also, check put my portfolio [HERE](https://github.com/jaycebrayboy/Portfolio_projects)
