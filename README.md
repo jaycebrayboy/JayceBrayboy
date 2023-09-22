@@ -2,7 +2,7 @@
 
 Hello, I'm Jayce, a junior business intelligence analyst with experience working with Excel, SQL, Power BI, and Tableau. My experience working in fast-paced environments has shaped me into a communicative, quick-learning, and inquisitive team player who’s always eager for opportunities to learn and grow.
 
-With Google/Coursera, I am certified in Data Analysis[*](https://www.credly.com/badges/e1d3540b-ab9a-4825-85d7-0ea10caa1ec0/linked_in_profile) and Digital Marketing & E-commerce[*](https://www.credly.com/badges/57272c8e-6053-419c-a176-45fef7184419/linked_in_profile). I am also enrolled in TripleTen's Business Intelligence Analystics program. The cirriculum covers Google Sheets, SQL, Power BI, Tableau, and data vizualization. It also involves numerous technical projects.
+With Google/Coursera, I am certified in Data Analysis[*](https://www.credly.com/badges/e1d3540b-ab9a-4825-85d7-0ea10caa1ec0/linked_in_profile) and Digital Marketing & E-commerce[*](https://www.credly.com/badges/57272c8e-6053-419c-a176-45fef7184419/linked_in_profile). I am also enrolled in TripleTen's Business Intelligence Analystics program. The curriculum covers Google Sheets, SQL, Power BI, Tableau, and data visualization. It also involves numerous technical projects.
 
 Some facts about me:
 - 🔬 I enjoy partcipating in professional webinars about Women in the Market Research Industry.
