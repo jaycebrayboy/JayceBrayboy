@@ -6,8 +6,8 @@ I have recently completed TripleTen's Business Intelligence Analytics program. T
 Some facts about me:
 - 🔬 I enjoy partcipating in professional webinars about Women in the Market Research Industry.
 - 🏃🏿‍♀️ I love being active and going to the gym, as I used to particpate in a plethora of sports growing up.
-- ☀️ I am newly relocated to Phoenix, Arizona and am loving this new enviroment.
-- 📖 Reading is my main hobby, with fantasy and murder mystery being my favorite genres.
+- ☀️ I am newly relocated to the Greater Phoenix Area and am loving this new enviroment.
+- 📖 Reading is my main hobby, with fantasy and mystery being my favorite genres.
 - 🎯 My goal for 2023: landing a new job in tech!
 
 Feel free to contact me on GitHub or LinkedIn!
