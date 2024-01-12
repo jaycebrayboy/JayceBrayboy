@@ -10,5 +10,5 @@ Some facts about me:
 - 📖 Reading is my main hobby, with fantasy and mystery being my favorite genres.
 - 🎯 My goal for 2023: landing a new job in tech!
 
-Feel free to contact me on GitHub or [LinkedIn](www.linkedin.com/in/jaycebrayboy)
+Feel free to contact me on GitHub or LinkedIn!
 Also, check put my portfolio [HERE](https://github.com/jaycebrayboy/Portfolio_projects)
