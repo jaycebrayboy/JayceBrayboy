@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jayce Brayboy
 
-Hello, I'm Jayce, a business insights analyst at H/L Agency with experience working with Excel, Google Sheets, SQL, Power BI, and Tableau. My experience working in fast-paced environments has shaped me into a communicative, quick-learning, and inquisitive team player who’s always eager for opportunities to learn and grow.
+Hello, I'm Jayce, a Business Intelligence Bnalyst with experience working with Excel, Google Sheets, SQL, Power BI, and Tableau. My experience working in fast-paced environments has shaped me into a communicative, quick-learning, and inquisitive team player who’s always eager for opportunities to learn and grow.
 
 I have completed TripleTen's Business Intelligence Analytics program[*](https://drive.google.com/file/d/1cSXcJ8RyfIYKd9dDbCfkQY0V388T0Yk1/view?usp=sharing). The curriculum covers Google Sheets, SQL, Power BI, Tableau, and data visualization. It also involves numerous technical projects. With Google/Coursera, I am certified in Data Analysis[*](https://www.credly.com/badges/e1d3540b-ab9a-4825-85d7-0ea10caa1ec0/linked_in_profile) and Digital Marketing & E-commerce[*](https://www.credly.com/badges/57272c8e-6053-419c-a176-45fef7184419/linked_in_profile). 
 Some facts about me:
